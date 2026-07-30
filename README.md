@@ -91,8 +91,8 @@ objetivo: Estágio / posição júnior em Dados ou IA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khalil-Ravikson&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Ravikson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter+notebook" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Khalil-Ravikson&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Khalil-Ravikson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter+notebook" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalil-Ravikson&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -106,9 +106,9 @@ objetivo: Estágio / posição júnior em Dados ou IA
 
 <div align="center">
 
-<a href="https://github.com/Khalil-Ravikson"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalil-Ravikson&repo=Oraculo&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Khalil-Ravikson/LSTM_For_Shak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalil-Ravikson&repo=LSTM_For_Shak&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Khalil-Ravikson/processamento-de-imagens-em-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalil-Ravikson&repo=processamento-de-imagens-em-py&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Khalil-Ravikson"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Khalil-Ravikson&repo=Oraculo&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Khalil-Ravikson/LSTM_For_Shak"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Khalil-Ravikson&repo=LSTM_For_Shak&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Khalil-Ravikson/processamento-de-imagens-em-py"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Khalil-Ravikson&repo=processamento-de-imagens-em-py&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
@@ -126,6 +126,10 @@ objetivo: Estágio / posição júnior em Dados ou IA
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
+<br/>
+
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F9488&height=100&section=footer"/>
 
