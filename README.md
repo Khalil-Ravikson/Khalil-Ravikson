@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F9488&height=200&section=header&text=Khalil%20Ravikson&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%7C%20IA%20%26%20An%C3%A1lise%20de%20Dados&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F9488&height=200&section=header&text=Khalil%20Ravikson&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20da%20Computacao%20%7C%20IA%20e%20Analise%20de%20Dados&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F9488&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Khalil+%F0%9F%91%8B;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+(UEMA);Apaixonado+por+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Machine+Learning+%7C+Data+Science+%7C+LangChain;Buscando+estagio+em+Dados+%2F+IA+%F0%9F%9A%80" alt="Typing SVG"/>
 
