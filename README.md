@@ -91,8 +91,8 @@ objetivo: Estágio / posição júnior em Dados ou IA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khalil-Ravikson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Ravikson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khalil-Ravikson&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Ravikson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter+notebook" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalil-Ravikson&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -126,25 +126,6 @@ objetivo: Estágio / posição júnior em Dados ou IA
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
-<br/>
-
-## ☕ Apoie meu trabalho
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/khalilravikson"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F9488&height=100&section=footer"/>
 
-<!--
-COMO USAR ESTE ARQUIVO:
-1. Crie um repositório com EXATAMENTE o mesmo nome do seu usuário: Khalil-Ravikson
-2. Adicione um arquivo README.md com este conteúdo (renomeie este arquivo, se necessário).
-3. Ele aparecerá automaticamente no topo do seu perfil do GitHub.
-4. Troque os links de Oráculo/Buy Me a Coffee pelos seus links reais.
-5. Se algum widget (streak stats, activity graph) não carregar, é porque depende
-   de serviços externos gratuitos que às vezes ficam instáveis — pode substituir
-   ou remover a linha correspondente.
--->
